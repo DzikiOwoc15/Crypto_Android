@@ -4,6 +4,7 @@ public class ConstUrl {
     private static final String URL_LISTING = "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?";
     private static final String URL_QUOTES = "https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest?";
     private static final String IMAGE_URL = "https://pro-api.coinmarketcap.com/v1/cryptocurrency/info?";
+    //TODO HIDE API KEY
     private static final String API_KEY = "&CMC_PRO_API_KEY=696d749e-d02a-454a-8fe7-2ec2029776fe";
     private static final String URL_CURRENCY = "https://pro-api.coinmarketcap.com/v1/fiat/map?";
     private static final String LIMIT = "limit=199";
