@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Crypto</string>
+    <string name="desc_coin_image">Photo of the coin</string>
+    <string name="name">Name</string>
+    <string name="percent_change" tools:ignore="StringFormatInvalid">% change</string>
+    <string name="photo">Icon</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="setting_percent">settingsChange</string>
+    <string name="currency">Currency</string>
+    <string name="okres_procentowej_zmiany">Period of percent change</string>
+    <string name="setting_currency">currency settings</string>
+    <string name="price">Price in %1$s</string>
+    <string name="search">Search</string>
+    <string name="invested_amount">Invested amount</string>
+    <string name="initial_price">Price at which you bought it</string>
+    <string name="my_investments">My investments</string>
+    <string name="add_investment">Add investment</string>
+    <string name="profit">Profit</string>
+    <string name="delete_button">Delete</string>
+    <string name="no_connection">No connection</string>
+    <string name="check_connection">Check your internet connection</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="select_coin">Select currency</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="price_per_coin">Price</string>
+    <string name="reload_data">Reload data</string>
+    <string name="data_reloaded" tools:ignore="UnusedResources">Data refreshed</string>
+    <string name="amount">Amount</string>
+    <string name="percent">%1$,.2f %%</string>
+    <string name="total_value">Total value</string>
+    <string name="back_button">Back button</string>
+    <string name="loading">loading</string>
+    <string name="hello_blank_fragment">///</string>
+    <string name="title_activity_investment">///</string>
+    <string name="first_fragment_label">///</string>
+    <string name="second_fragment_label">///</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">//</string>
+    <string name="hello_second_fragment">//</string>
+    <string name="enter_number">Enter Amount</string>
+    <string name="number">Number</string>
+    <string name="currently_selected">Currently selected</string>
+    <string name="amount_hint">0.05</string>
+    <string name="blank">blank</string>
+    <string name="no_crypto_selected">No cryptocurrency has been selected!</string>
+    <string name="symbol">Symbol</string>
+    <string name="value">Value</string>
+</resources>
