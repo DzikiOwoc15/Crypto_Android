@@ -33,3 +33,7 @@ Android app for cryptocurrencies enthusiasts
 
 <img src="screenshots/dark_mode.png" alt="drawing" width="200"/>
 
+### Select the currency in which the price is to be displayed
+
+<img src="screenshots/settings.png" alt="drawing" width="200"/>
+
