@@ -4,9 +4,9 @@ Android app for cryptocurrencies enthusiasts
 ---
 
 ## Tech used
-### Java
-### RxJava, Room database
-### External API (more details below)
+- Java
+- RxJava, Room database
+- External API (more details below)
 
 ---
 
