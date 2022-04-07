@@ -19,9 +19,17 @@ Android app for cryptocurrencies enthusiasts
 
 ### Check price of your favourite currencies
 
+<img src="screenshots/main_screen.png" alt="drawing" width="200"/>
+
 ### Keep track of your portfolio
+
+<img src="screenshots/portfolio.png" alt="drawing" width="200"/>
 
 ### Stay updated using widget
 
+<img src="screenshots/widget.png" alt="drawing" width="200"/>
+
 ### Switch between light and dark mode for your comfort
-TODO
+
+<img src="screenshots/dark_mode.png" alt="drawing" width="200"/>
+
